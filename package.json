@@ -1,0 +1,19 @@
+{
+  "name": "react-hooks-npm-lab",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxliyc/react-hooks-npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxliyc/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/wxliyc/react-hooks-npm-lab#readme"
+}
